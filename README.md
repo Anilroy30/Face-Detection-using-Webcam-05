@@ -23,19 +23,19 @@ Python 3.11 or later.
 ### Install Required Library
 pip install opencv-python
 
-text
+
 
 ## How to Run
 
 1. Clone or download this repository and navigate to the folder:
 cd project-3
 
-text
+
 
 2. Run the script:
 python webcam_face_detection.py
 
-text
+
 
 3. The webcam window will open and start detecting faces.
 4. Press ‘q’ to close the program.
@@ -47,7 +47,7 @@ project-3/
 ├── output_face_detection.png  # Screenshot showing detected faces
 └── README.md                  # This file
 
-text
+
 
 ## Output Screenshot
 The screenshot below displays a real-time video feed with green rectangles drawn around detected faces.
